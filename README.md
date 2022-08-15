@@ -2,6 +2,6 @@
 
 3 lambs got kicked out of their house.
 
-## Subheader
+## Chapter 2
 
 "Let's run to the forest", they said.
